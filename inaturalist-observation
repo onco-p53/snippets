@@ -17,14 +17,14 @@
 </style>
 <div class="inat-widget">
     <div class="inat-widget-header">
-      <a href="http://inaturalist.nz"><img alt="NatureWatch NZ" src="http://inaturalist.nz/assets/logo-small-b550a9649ed80159b83537f3435d9fa8.png" /></a>  
+      <a href="https://inaturalist.nz"><img alt="iNaturalistNZ" src="https://static.inaturalist.org/sites/3-logo.png" /></a>  
     </div>
   <script type="text/javascript" charset="utf-8" src="https://inaturalist.nz/observations.widget?layout=large&limit=10&order=desc&order_by=observed_on&taxon_id=47170"></script>
   <table class="inat-footer">
     <tr class="inat-user">
       <td class="inat-value">
         <strong>
-            <a href="https://inaturalist.nz/taxa/47170-Fungi">View more observations of Fungi on <nobr>NatureWatch NZ »</nobr></a>
+            <a href="https://inaturalist.nz/taxa/47170-Fungi">View more observations of Fungi on <nobr>iNaturalistNZ »</nobr></a>
         </strong>
       </td>
     </tr>
